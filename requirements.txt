@@ -1,5 +1,4 @@
 pandas==1.4.4
-plotly==5.9.0
 plotly==5.14.1
 pycountry==22.3.5
 streamlit==1.22.0
